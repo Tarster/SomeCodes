@@ -1,0 +1,3 @@
+To know what set do you have.
+if the 1st code of your RDBMS/Data Definition Language is "Create Departments Table" ->You have set-b
+if the 1st code of your RDBMS/Data Definition Language is "Create Users Table"-> you have set-a
